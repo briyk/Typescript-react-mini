@@ -1,0 +1,14 @@
+
+
+
+
+
+.cart-btn-text{
+  color: #fff;
+  width: 1.5rem;
+  height: 1.5;
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(29%,-12%) ;
+}

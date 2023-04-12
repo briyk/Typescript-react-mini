@@ -1,0 +1,32 @@
+[
+     {
+          "id": 1,
+          "name": "NFT 1.0",
+          "imgUrl":"/images/ape1.jpg",
+          "price": 19.99
+     },
+     {
+          "id": 2,
+          "name": "NFT 2.0",
+          "imgUrl":"/images/ape2.jpg",
+          "price": 90.99
+     },
+     {
+          "id": 3,
+          "name": "NFT 3.0",
+          "imgUrl":"/images/ape3.jpg",
+          "price": 5.99
+     },
+     {
+          "id": 4,
+          "name": "NFT 4.0",
+          "imgUrl":"/images/ape4.jpg",
+          "price": 49.99
+     },
+     {
+          "id": 5,
+          "name": "NFT 5.0",
+          "imgUrl":"/images/ape5.jpg",
+          "price": 10.99
+     }
+]
